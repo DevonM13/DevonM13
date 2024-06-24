@@ -1,10 +1,10 @@
 Hello, my name is Devon McGrath! I am currently working on becoming a full time software engineer. I'm looking to establish a great career in the tech industry.
-🌱 I’m currently learning JavaScript, CSS, and HTML.
-👯 I’m looking to collaborate on many projects in the fucture 
-📫 How to reach me: 
-  You can email me at: devonmcg1213@gmail.com 
-  X: https://x.com/BeardedTrader42
-⚡ Fun fact: I really enjoying trading in the stock market!
+- 🌱 I’m currently learning JavaScript, CSS, and HTML.
+- 👯 I’m looking to collaborate on many projects in the fucture 
+- -📫 How to reach me: 
+  - You can email me at: devonmcg1213@gmail.com 
+  - X: https://x.com/BeardedTrader42
+- ⚡ Fun fact: I really enjoying trading in the stock market!
 <!--
 **DevonM13/DevonM13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.      
 
